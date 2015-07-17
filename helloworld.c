@@ -8,4 +8,6 @@ void main()
     printf("Enter two nos. to add:\n");
     scanf("%lf %lf", &a, &b);
     printf("Result of addition is %lf\n", a+b);
+
+    printf("Yo !\n");
 }
